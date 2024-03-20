@@ -1,0 +1,29 @@
+{
+  "name": "tea-staking-notifier",
+  "version": "1.0.0",
+  "description": "Get notified about staking activities and rewards with a staking notifier, keeping you informed.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taketimetothink/tea-staking-notifier"
+  },
+  "author": "taketimetothink",
+  "license": "MIT",
+  "dependencies": {
+    "tea-staking-tracker": "1.0.0",
+    "tea-staking-notifier": "1.0.0",
+    "ethers": "1.0.0",
+    "cheerio": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "jquery": "1.0.0",
+    "babel-core": "1.0.0",
+    "mongoose": "1.0.0",
+    "eslint": "1.0.0",
+    "express": "1.0.0",
+    "sinon": "1.0.0",
+    "axios": "1.0.0"
+  }
+}
